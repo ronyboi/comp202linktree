@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Rohan Agarwal
 ## Header 2
 ### Header 3
 
@@ -26,6 +25,11 @@ Rohan Agarwal
 
 [Link](url) and ![Image](src)
 ```
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
