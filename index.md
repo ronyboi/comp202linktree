@@ -26,10 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+# TA Office Hours
+
+Name | Day \ Time | Zoom Link
+------------ | ------------- | -------------
+Rohan Agarwal | Monday ( 11:30 - 12:30 ) | Zoom.us
+Content in the first column | Content in the second column |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
