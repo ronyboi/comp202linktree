@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -26,12 +28,26 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-# TA Office Hours
+# Live Lectures
 
-Name | Day \ Time | Zoom Link
------------- | ------------- | -------------
-Rohan Agarwal | Monday ( 11:30 - 12:30 ) | Zoom.us
-Content in the first column | Content in the second column |
+| Day \ Time                  | Zoom Link                    |
+| --------------------------- | ---------------------------- |
+| Friday ( 11:30 - 12:30 )    | Zoom.us                      |
+| Content in the first column | Content in the second column |
+
+# Professor Office Hours
+
+| Name                        | Day \ Time                   | Zoom Link |
+| --------------------------- | ---------------------------- | --------- |
+| Rohan Agarwal               | Monday ( 11:30 - 12:30 )     | Zoom.us   |
+| Content in the first column | Content in the second column |
+
+# TA \ Mentor Office Hours
+
+| Name                        | Day \ Time                   | Zoom Link |
+| --------------------------- | ---------------------------- | --------- |
+| Rohan Agarwal               | Monday ( 11:30 - 12:30 )     | Zoom.us   |
+| Content in the first column | Content in the second column |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
